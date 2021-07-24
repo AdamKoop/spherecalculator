@@ -1,3 +1,5 @@
 Калькулятор с эффектом сферы.
 ========================
-  [пример](https://perlandrey.github.io/spherecalculator/)
+
+
+[Посмотреть](https://perlandrey.github.io/spherecalculator/)
